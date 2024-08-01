@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto'), url(../public/fonts/Roboto/Roboto-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: local('Inter'), url(../public/fonts/Inter/Inter-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Russo One';
+  src: local('Russo_One'), url(../public//fonts/Russo_One/RussoOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: local('Poppins'), url(../public/fonts/Poppins/Poppins-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: local('Rubik'), url(../public/fonts/Rubik/Rubik-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Hind_Guntur';
+  src: local('Hind_Guntur'),
+    url(../public/fonts/Hind_Guntur/HindGuntur-Medium.ttf) format('truetype');
+}
+
+/* @font-face {
+  font-family: 'Open_Sans';
+  src: local('Open_Sans'),
+    url(../public/fonts/Open_Sans/OpenSans-VariableFont_wdth\wght.ttf) format('truetype');
+} */
